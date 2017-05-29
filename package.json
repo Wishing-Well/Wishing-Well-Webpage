@@ -1,5 +1,5 @@
 {
-  "name": "wishing-well",
+  "name": "wishing-well-webpage",
   "version": "1.0.0",
   "description": "A mobile-game/utility meant to promote donating and charity to local businesses",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wishing-Well/Wishing-Well.git"
+    "url": "git+https://github.com/Wishing-Well/Wishing-Well-Webpage.git"
   },
   "author": "",
   "license": "ISC",
@@ -18,21 +18,10 @@
   },
   "homepage": "https://github.com/Wishing-Well/Wishing-Well#readme",
   "dependencies": {
-    "bcrypt": "^1.0.2",
-    "connect-redis": "^3.3.0",
     "express": "^4.15.3",
-    "passport": "^0.3.2",
-    "passport-local": "^1.0.0",
     "pg": "^6.2.2",
-    "sequelize": "^3.30.4"
   },
   "devDependencies": {
-    "babel-jest": "20.0.3",
-    "babel-preset-react-native": "1.9.2",
-    "jest": "20.0.3",
     "react-test-renderer": "16.0.0-alpha.6"
-  },
-  "jest": {
-    "preset": "react-native"
   }
 }
