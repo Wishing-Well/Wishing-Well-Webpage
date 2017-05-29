@@ -345,6 +345,7 @@ section.section {
 	background-image: url(../img/parallax/img2.jpg);
 }
 #testimonials{
+  background: rgba(0,0,255, 0.5);
   background-image: url(../img/parallax/water-drop_1_orig.gif);
   background-repeat:no-repeat;
   background-size:cover;
