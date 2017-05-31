@@ -24,6 +24,14 @@ body {
 	text-shadow: none;
 }
 
+#install {
+  text-align:center;
+}
+
+.installsection{
+  margin:auto;
+}
+
 .clear {
 	clear: both;
 }
@@ -223,7 +231,7 @@ a:hover {
 	padding-bottom: 25px;
 }
 .pad-bot30 {
-	padding-bottom: 30px;
+	padding-bottom: 5px;
 }
 .pad-bot35 {
 	padding-bottom: 35px;
@@ -342,9 +350,12 @@ section.section {
 	background-image: url(../img/parallax/img1.jpg);
 }
 #parallax2{
-	background-image: url(../img/parallax/img2.jpg);
+	background-image: url(../img/parallax/wishingwell.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
 }
 #testimonials{
+  box-shadow: 0px 300px rgba(7, 57, 96, 0.6) inset;
   background-image: url(../img/parallax/water-drop_1_orig.gif);
   background-repeat:no-repeat;
   background-size:cover;
@@ -441,7 +452,7 @@ h1 a.navbar-brand {
 
 section.featured {
 	padding: 100px 0 0px;
-	background: #70B900;
+	background: #BDDD1E;
 	color: #fdfdfd;
 }
 
