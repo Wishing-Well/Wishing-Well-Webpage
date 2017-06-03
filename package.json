@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Wishing-Well/Wishing-Well#readme",
   "dependencies": {
     "express": "^4.15.3",
-    "pg": "^6.2.2",
+    "pg": "^6.2.2"
   },
   "devDependencies": {
     "react-test-renderer": "16.0.0-alpha.6"
