@@ -452,7 +452,7 @@ h1 a.navbar-brand {
 
 section.featured {
 	padding: 100px 0 0px;
-	background: #BDDD1E;
+	background: #65d0e8;
 	color: #fdfdfd;
 }
 
@@ -639,7 +639,7 @@ nav#filter a {
 	color:#555;
 }
 nav#filter a:hover, nav#filter a.current {
-	background-color: #BDDD1E;
+	background-color: #darkblue;
 	color:#fff;
 }
 
