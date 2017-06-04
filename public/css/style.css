@@ -7,6 +7,7 @@
 
 /* ==== Google font ==== */
 @import url('https://fonts.googleapis.com/css?family=Lato:400,300,700,900');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
 /* === fontawesome === */
 @import url('font-awesome.css');
 /* ==== overwrite bootstrap standard ==== */
@@ -330,7 +331,7 @@ section.section {
 }
 
 .bg-white {
-	background-color: #fff;
+	background-color: oldlace;
 }
 
 /* --- section heading --- */
